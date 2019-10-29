@@ -15,7 +15,7 @@
 - Print string.
 .br
 .B i, d
-- Print ints .
+- Print integers .
 .br
 .B b
 - Print a  number in binary form.
@@ -24,4 +24,4 @@ _printf() return the number of the printed characters ignoring the null byte (\0
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-amine bouchahda and badreddine ben messaoud
+amine bouchahda and Badreddine Ben Messaoud

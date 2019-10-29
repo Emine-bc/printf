@@ -13,6 +13,9 @@ int i = 0;
 str specs[] = {
 {'c', print_c},
 {'s', print_s},
+{'i', print_i},
+{'d', print_i},
+{'b', print_b};
 {'\0', NULL }
 };
 for (i = 0; specs[i].ch; i++)

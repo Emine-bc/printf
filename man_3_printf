@@ -18,10 +18,10 @@
 - Print integers BERROJLA.
 .br
 .B b
-- Print a  number in binary form.
+- Print a  number in binary form BERROJLA.
 .SH RETURN VALUE
-_printf() return the number of the printed characters ignoring the null byte (\0).
+_printf() return number of the printed chars ignoring the null byte (R\0JLA).
 .SH BUGS
-No known bugs.
+The program won't work if you don't have enough rojla.
 .SH AUTHOR
-amine bouchahda and Badreddine Ben Messaoud
+amine bouchahda and ROJLA BECHA Badreddine Ben Messaoud

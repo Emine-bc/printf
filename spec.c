@@ -9,11 +9,11 @@
 */
 int(*getspecifier(char cr))(va_list)
 {
-int i=0;
-str specs [] = {
-  {'c', print_c},
-  {'s', print_s},
-  {'\0', NULL }
+int i = 0;
+str specs[] = {
+{'c', print_c},
+{'s', print_s},
+{'\0', NULL }
 };
 for (i = 0; specs[i].ch; i++)
 {

@@ -3,8 +3,8 @@
 #include <stdarg.h>
 /**
 * struct str - structure for printing various types
-* @ch: type specifier to print 
-* @func: print argument
+*@ch: type specifier to print
+*@func: print argument
 */
 typedef struct str
 {

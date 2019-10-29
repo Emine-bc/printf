@@ -11,7 +11,7 @@ int print_c(va_list c)
 {
 char ch = (char)va_arg(c, int);
 _putchar(ch);
-return (1)
+return (1);
 }
 /**
  * print_s - prints astring

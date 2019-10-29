@@ -20,4 +20,5 @@ int print_s(va_list s);
 int print_i(va_list id);
 int print_b(va_list b);
 int print_r(va_list r);
+int print_rot13(va_list R);
 #endif

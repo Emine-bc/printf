@@ -32,7 +32,6 @@ div /= 10;
 }
 return (len);
 }
-<<<<<<< HEAD
 /**
   * print_rb - help print int in binary
   * @a: int
@@ -46,7 +45,7 @@ int print_rec_b(int a, int d, int c)
 if (a >= 1)
 {
 	c++;
-	print_rec_b(a / d, d, c);
+	print_rb(a / d, d, c);
 	_putchar((a % d) + '0');
 }
 return (c);
@@ -79,5 +78,3 @@ int print_binary(va_list bin)
 	}
 	return (c);
 }
-=======
->>>>>>> e81eeee53cb514b5e7244db7d2bd5c0fc35434c3

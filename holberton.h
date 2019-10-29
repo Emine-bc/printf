@@ -18,6 +18,4 @@ int(*getspecifier(char))(va_list);
 int print_c(va_list c);
 int print_s(va_list s);
 int print_i(va_list id);
-int print_b(va_list b);
-int print_rb(int a, int d, int c);
 #endif

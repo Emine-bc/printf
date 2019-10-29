@@ -1,0 +1,27 @@
+.TH _PRINTF 3 "29 October 2019" "0.1" "    printf man page"
+.SH NAME
+.B _printf
+- create printf
+.SH SYNOPSIS
+.B #include "holberton.h"
+.B int _printf(const char *format, ...);
+.SH DESCRIPTION
+ _printf() function print to the standard output according to what we give like format( u can added many form )
+.SH USAGE
+.B c
+- Print the character used.
+.br
+.B s
+- Print string.
+.br
+.B i, d
+- Print ints .
+.br
+.B b
+- Print a  number in binary form.
+.SH RETURN VALUE
+_printf() return the number of the printed characters ignoring the null byte (\0).
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+amine bouchahda and bad ben masouad .

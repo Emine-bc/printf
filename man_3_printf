@@ -24,4 +24,4 @@ _printf() return the number of the printed characters ignoring the null byte (\0
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-amine bouchahda and badreddine ben messa
+amine bouchahda and badreddine ben messao

@@ -1,4 +1,4 @@
-.TH _PRINTF 3 "29 October 2019" "0.1" "   printf manual page"
+.TH _PRINTF 3 "29 October 2019" "0.1" "  printf manual page"
 .SH NAME
 .B _printf
 - create printf

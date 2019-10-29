@@ -19,8 +19,8 @@ str specs[] = {
 {'R', print_rot13},
 {'u', print_u},
 {'o', print_o},
-{'x', print_x};
-{'X', print_X};
+{'x', print_x},
+{'X', print_X},
 {'\0', NULL }
 };
 for (i = 0; specs[i].ch; i++)

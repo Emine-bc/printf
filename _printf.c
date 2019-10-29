@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdarg.h>
 /**
-* _printf -print anythinggggg
+* _printf -print anything
 *@format: list of arguments types passed  to stdout
 *Return: number of charracters printed
 **/

@@ -9,7 +9,7 @@
  _printf() function print to the standard output according to what we give like format(Insert form here)
 .SH USAGE
 .B c
-- Print the character used.
+- Prints the character used.
 .br
 .B s
 - Print string.

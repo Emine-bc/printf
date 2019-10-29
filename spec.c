@@ -15,7 +15,10 @@ str specs[] = {
 {'s', print_s},
 {'i', print_i},
 {'d', print_i},
+<<<<<<< HEAD
 {'b', print_b};
+=======
+>>>>>>> e81eeee53cb514b5e7244db7d2bd5c0fc35434c3
 {'\0', NULL }
 };
 for (i = 0; specs[i].ch; i++)

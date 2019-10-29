@@ -18,6 +18,9 @@ int(*getspecifier(char))(va_list);
 int print_c(va_list c);
 int print_s(va_list s);
 int print_i(va_list id);
+<<<<<<< HEAD
 int print_b(va_list b);
 int print_rb(int a, int d, int c);
+=======
+>>>>>>> e81eeee53cb514b5e7244db7d2bd5c0fc35434c3
 #endif

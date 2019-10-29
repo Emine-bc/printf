@@ -32,6 +32,7 @@ div /= 10;
 }
 return (len);
 }
+<<<<<<< HEAD
 /**
   * print_rb - help print int in binary
   * @a: int
@@ -78,3 +79,5 @@ int print_binary(va_list bin)
 	}
 	return (c);
 }
+=======
+>>>>>>> e81eeee53cb514b5e7244db7d2bd5c0fc35434c3
